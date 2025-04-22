@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" /><br>
-<div align="left>
+
 # Hi! My name is NGUYEN TUAN PHONG
 
 ## JAVA BACKEND DEVELOPER
@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/KuaBK?logo=github&style=for-the-bad
 ---
 
 ### Skills
-</div>
+
 <p align="center">
 <!-- Icons here -->
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" />
