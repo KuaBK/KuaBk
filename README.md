@@ -4,55 +4,35 @@
 
 # Hi! My name is NGUYEN TUAN PHONG
 
-## JAVA BACKEND DEVELOPER
 </div>
-I am seeking an internship opportunity as a Java Back-end Developer, where I can contribute to the team while learning from experienced professionals. I am highly motivated, quick to learn, and excited to tackle challenging problems in back-end development, and I aim to grow into a full-stack engineer or technical leader who can design and lead impactful software solutions.
 
-🌍  I'm based in Ho Chi Minh City  
-🖥️  See my portfolio at [My Portfolio](http://portfolio-seven-bay-30.vercel.app/)  
-✉️  Contact me at [tuanphonglqd@gmail.com](mailto:tuanphonglqd@gmail.com)  
-🚀  Currently working on [Asset Management System](http://asset-management-system-xi.vercel.app/)  
-🧠  Learning Spring Boot  
-🤝  Open to collaborating on Java Projects  
-<div align="center">
-<a href="https://www.github.com/KuaBK" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/KuaBK?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
----
+<h3 align="center">A passionate Back-end developer from VietNam</h3>
 
-### Skills
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuabk&label=Profile%20views&color=0e75b6&style=flat" alt="kuabk" /> </p>
 
-<p align="center">
-<!-- Icons here -->
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring.svg" width="36" />
-<!-- Add more icons as needed -->
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on [Cua Chat Application](https://github.com/KuaBK/Chat-Application)
+
+- 🌱 I’m currently learning **Spring, Java,...**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-seven-bay-30.vercel.app/](https://portfolio-seven-bay-30.vercel.app/)
+
+- 📫 How to reach me **tuanphonglqd@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tuấn-phong-nguyễn-22965135a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuấn-phong-nguyễn-22965135a" height="30" width="40" /></a>
+<a href="https://fb.com/phong.nguyen.17085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phong.nguyen.17085" height="30" width="40" /></a>
+<a href="https://instagram.com/_cua.aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_cua.aa" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-### Socials
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuabk&show_icons=true&locale=en&layout=compact" alt="kuabk" /></p>
 
-<p align="center">
-<a href="https://www.facebook.com/phong.nguyen.17085/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" /></a>
-<a href="https://www.github.com/KuaBK" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
-<a href="http://www.instagram.com/_cua.aa/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" /></a>
-<a href="https://www.linkedin.com/in/tuấn-phong-nguyễn-22965135a/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuabk&show_icons=true&locale=en" alt="kuabk" /></p>
 
----
-
-### GitHub Stats
-
-<a href="http://www.github.com/KuaBK"><img src="https://github-readme-stats.vercel.app/api?username=KuaBK&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
-
-<a href="http://www.github.com/KuaBK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KuaBK&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
----
-
-### Featured Projects
-
-<a href="https://github.com/KuaBK/E-Commerce-Website"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KuaBK&repo=E-Commerce-Website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuabk&" alt="kuabk" /></p>
