@@ -5,7 +5,7 @@
 # Hi! My name is NGUYEN TUAN PHONG
 
 ## JAVA BACKEND DEVELOPER
-
+</div>
 I am seeking an internship opportunity as a Java Back-end Developer, where I can contribute to the team while learning from experienced professionals. I am highly motivated, quick to learn, and excited to tackle challenging problems in back-end development, and I aim to grow into a full-stack engineer or technical leader who can design and lead impactful software solutions.
 
 🌍  I'm based in Ho Chi Minh City  
@@ -14,7 +14,7 @@ I am seeking an internship opportunity as a Java Back-end Developer, where I can
 🚀  Currently working on [Asset Management System](http://asset-management-system-xi.vercel.app/)  
 🧠  Learning Spring Boot  
 🤝  Open to collaborating on Java Projects  
-
+<div align="center">
 <a href="https://www.github.com/KuaBK" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KuaBK?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -48,7 +48,6 @@ src="https://img.shields.io/github/followers/KuaBK?logo=github&style=for-the-bad
 
 <a href="http://www.github.com/KuaBK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KuaBK&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/KuaBK"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=KuaBK&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a>
 
 ---
 
