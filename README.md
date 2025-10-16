@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Cua Chat Application](https://github.com/KuaBK/Chat-Application)
-
-- 🌱 I’m currently learning **Spring, Java,...**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-seven-bay-30.vercel.app/](https://portfolio-seven-bay-30.vercel.app/)
-
-- 📫 How to reach me **tuanphonglqd@gmail.com**
+* 🌍  I'm based in Ho Chi Minh City
+* 🖥️  See my portfolio at [My Portfolio](http://portfolio-seven-bay-30.vercel.app/)
+* ✉️  You can contact me at [tuanphonglqd@gmail.com](mailto:tuanphonglqd@gmail.com)
+* 🚀  I'm currently working on [software-project-management-human](http://https://software-project-management-human-r.vercel.app/)
+* 🧠  I'm currently learning Spring Boot (Java, Kotlin)
+* 👥  I'm looking to collaborate on Spring Boot Project
+* 💬  Ask me about My other name is Henry, and you can find me on LinkedIn: https://www.linkedin.com/in/tuan-phong-nguyen-22965135a/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
