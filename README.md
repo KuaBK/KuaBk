@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100" /><br>
 
@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuabk&label=Profile%20views&color=0e75b6&style=flat" alt="kuabk" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<div align="left">
 * 🌍  I'm based in Ho Chi Minh City
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-seven-bay-30.vercel.app/)
 * ✉️  You can contact me at [tuanphonglqd@gmail.com](mailto:tuanphonglqd@gmail.com)
