@@ -15,7 +15,7 @@
 * 🚀  I'm currently working on [software-project-management-human](http://https://software-project-management-human-r.vercel.app/)
 * 🧠  I'm currently learning Spring Boot (Java, Kotlin)
 * 👥  I'm looking to collaborate on Spring Boot Project
-* 💬  Ask me about My other name is Henry, and you can find me on LinkedIn: https://www.linkedin.com/in/tuan-phong-nguyen-22965135a/
+* 💬  My other name is Henry, and you can find me on LinkedIn: https://www.linkedin.com/in/tuan-phong-nguyen-22965135a/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
