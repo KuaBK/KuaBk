@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuabk&label=Profile%20views&color=0e75b6&style=flat" alt="kuabk" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</div>
 <div align="left">
 * 🌍  I'm based in Ho Chi Minh City
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-seven-bay-30.vercel.app/)
@@ -15,7 +16,7 @@
 * 🧠  I'm currently learning Spring Boot (Java, Kotlin)
 * 👥  I'm looking to collaborate on Spring Boot Project
 * 💬  Ask me about My other name is Henry, and you can find me on LinkedIn: https://www.linkedin.com/in/tuan-phong-nguyen-22965135a/
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tuấn-phong-nguyễn-22965135a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuấn-phong-nguyễn-22965135a" height="30" width="40" /></a>
